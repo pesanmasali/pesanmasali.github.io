@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "166ac8da248695c89e1843b53622007f",
+  "assets/AssetManifest.json": "f3d07857cb18e50a69887087c36a2b9c",
 "assets/assets/0.jpg": "77373a861fe12a4e0c7c2c69b85830ab",
 "assets/assets/1.jpg": "e52cb77bb99fc379b3630bad66f73442",
 "assets/assets/10.jpg": "11a38ad15e2d71a79398520e0f5632dd",
@@ -30,6 +30,8 @@ const RESOURCES = {
 "assets/assets/8.jpg": "a0981c070dc556a2c94345ec635dc851",
 "assets/assets/9.jpg": "9c7a0a5f0065acb91ec381531eb76a1d",
 "assets/assets/denah.jpg": "c7bef18756a80dc11cc0b26eb19176d4",
+"assets/assets/person/laborat.jpg": "a90886cc0922e4761aae04fff8b5f77d",
+"assets/assets/person/person1.jpg": "1adbb50971340704cc0512258d22e1f1",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/images/tile_01.png": "fb22045d48257152ae9452ad28a1434b",
@@ -52,9 +54,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a632d88ab01985064b21dde507d838df",
-"/": "a632d88ab01985064b21dde507d838df",
-"main.dart.js": "48e83043cac988dc3ab55b6c48e0780a",
+"index.html": "8126778acfb0316159c4c8a19f108d30",
+"/": "8126778acfb0316159c4c8a19f108d30",
+"main.dart.js": "9b9a003267dabfbb5d0dbe19601f5b1e",
 "manifest.json": "228d4136b6bfe34740748ab403a54228",
 "version.json": "c0e75587503c2f950ad0d45a3e1899c0"
 };
