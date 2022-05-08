@@ -54490,11 +54490,11 @@ if(l==null)l=n
 s=m.i(a,"title")
 if(s==null)s=n
 r=m.i(a,"photo")
-if(r==null)r=n
+if(r==null)r="assets/person/null.jpg"
 q=m.i(a,"locationphoto")
-if(q==null)q="assets/person/null.jpg"
+if(q==null)q="assets/ruang/null.jpg"
 p=m.i(a,"location")
-if(p==null)p="assets/ruang/null.jpg"
+if(p==null)p="-"
 o=m.i(a,"position")
 if(o==null)o=A.b([0],t.n)
 m=m.i(a,"tile")
