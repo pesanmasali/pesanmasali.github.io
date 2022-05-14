@@ -1,6 +1,6 @@
 {
-    "name": "indoormap",
-    "short_name": "indoormap",
+    "name": "overflow",
+    "short_name": "overflow",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
