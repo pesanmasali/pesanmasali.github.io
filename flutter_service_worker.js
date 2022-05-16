@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "38255b6bd4997d691e49791492b0f7ca",
+  "assets/AssetManifest.json": "c4dec354bcd9e18bec3019c13339bbdd",
 "assets/assets/location/APOTEK.jpg": "d9e51ae5d949d7f21a0d372b180b1d6c",
 "assets/assets/location/GD%2520BELAKANG%2520LT.1.jpg": "09b75b81c0ada7d4cb8b7bb6ceb68c77",
 "assets/assets/location/GD%2520BELAKANG%2520LT.2.jpg": "09b75b81c0ada7d4cb8b7bb6ceb68c77",
@@ -37,13 +37,13 @@ const RESOURCES = {
 "assets/assets/person/null.png": "4788048f319dc48101678d9e69f5077e",
 "assets/assets/person/PENDAFTARAN.jpg": "341af25dd641958d491f78001c77ec51",
 "assets/assets/person/POLI%2520GIGI.jpg": "8e4a4f76d5a230bdcb0be348452028f2",
-"assets/assets/person/POLI%2520UMUM.jpeg": "c8a851b199d6c6fd78fa3c23af1b5069",
-"assets/assets/person/POLI%2520UMUM.jpg": "5c0998d5145dda8269b3b51f4d171d97",
+"assets/assets/person/POLI%2520UMUM.jpg": "c8a851b199d6c6fd78fa3c23af1b5069",
 "assets/assets/person/R.GIZI.jpg": "313bda7e21827ace63b6a551967cf3aa",
 "assets/assets/person/R.KA.PUSKESMAS.jpg": "4def4768d3fe674ec77e1e1ca310e232",
-"assets/assets/person/R.KA.TU.jpeg": "a12702a2a81f40ae8170893146c900f3",
-"assets/assets/person/R.KIA%2520KB.jpeg": "7169dd75fd02b2273ecfad117b5a2b5f",
-"assets/assets/person/R.VAKSIN.jpeg": "a0625a2eba6b10798fb39bf1078605ef",
+"assets/assets/person/R.KA.TU.jpg": "a12702a2a81f40ae8170893146c900f3",
+"assets/assets/person/R.KIA%2520KB.jpg": "7169dd75fd02b2273ecfad117b5a2b5f",
+"assets/assets/person/R.VAKSIN.jpg": "a0625a2eba6b10798fb39bf1078605ef",
+"assets/assets/person/RAWAT%2520INAP.jpg": "5c0998d5145dda8269b3b51f4d171d97",
 "assets/assets/person/UGD.jpg": "f7614cb7093b1e21267516523561946c",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
@@ -61,9 +61,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "fbf9a67737c3c556508d8f64aecaa10e",
-"/": "fbf9a67737c3c556508d8f64aecaa10e",
-"main.dart.js": "9f59c6f7a6cfbcf86265bb93fb1ba70b",
+"index.html": "0fe5b0246946924ae48bc04b6a319b9b",
+"/": "0fe5b0246946924ae48bc04b6a319b9b",
+"main.dart.js": "cb3bc23b514c04976fd055ef823ab237",
 "manifest.json": "e4a1cf04faa7587feac3d3fa09860ecb",
 "version.json": "25666f0c0ada1f311e30847819888663"
 };
