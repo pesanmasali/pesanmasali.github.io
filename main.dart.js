@@ -66327,7 +66327,7 @@ q=A.b([B.NO,A.bn(a.f,p,p,p,p,p,p,p,p),B.NQ],o)
 B.b.N(q,n)
 return A.vf(A.dy(p,A.j3(A.nn(A.b([r,A.vf(A.akU(A.i3(q,B.fn,B.bu,B.af),p,B.a6,p,p,B.an))],o),B.a0,B.af),p,p),B.p,p,p,p,p,p,p,p,p,p,s))},
 Vt(a){var s,r,q=null,p={}
-p.a=A.agd("bit.ly/data-stunting-2022","https")
+p.a=A.agd("drive.google.com/file/d/1ROM1rPbzhgu6Qej1FEIMKKnjuTK6xFKS/view","https")
 s=a.a
 if(s==="R.GIZI")r=!0
 else{if(s==="R.KIA KB")p.a=A.agd("esta@gmail.com","mailto")
