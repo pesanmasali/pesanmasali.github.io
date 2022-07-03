@@ -67200,8 +67200,8 @@ $iGf:1,
 Xo(a){return this.gXn().$1(a)}}
 A.pa.prototype={
 ga4R(){var s=this.c.e
-if(s===B.fh)return!0
-if(s===B.lI)return!1
+if(s===B.lI)return!0
+if(s===B.fh)return!1
 return!1},
 m9(a){return this.XY(a)},
 XY(a){var s=0,r=A.a5(t.H),q,p=this,o
@@ -67305,8 +67305,8 @@ if(r==null)r=""
 q=window.location.search
 r+=q==null?"":q}else r="#"+s
 s=r}A.a(this.b,"_element").setAttribute("href",s)},
-FB(a){switch(a){case B.wv:case B.fh:return"_self"
-case B.lI:return"_blank"
+FB(a){switch(a){case B.wv:case B.lI:return"_self"
+case B.fh:return"_blank"
 default:throw A.c(A.c2("Unknown LinkTarget value "+a.i(0)+"."))}},
 zf(){var s=0,r=A.a5(t.H)
 var $async$zf=A.a6(function(a,b){if(a===1)return A.a2(b,r)
@@ -70070,9 +70070,9 @@ B.ws=function(hooks) {
 B.lH=function(hooks) { return hooks; }
 
 B.b9=new A.G0()
-B.lI=new A.wn()
-B.wv=new A.wn()
 B.fh=new A.wn()
+B.wv=new A.wn()
+B.lI=new A.wn()
 B.ww=new A.ZA()
 B.wx=new A.a_8()
 B.lJ=new A.a_l()
