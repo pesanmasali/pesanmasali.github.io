@@ -66956,9 +66956,9 @@ q=A.b([B.O2,A.bq(a.f,p,p,p,p,p,p,p,p),B.O4],o)
 B.b.N(q,n)
 return A.vu(A.dB(p,A.j8(A.nw(A.b([r,A.vu(A.alE(A.ia(q,B.fo,B.bu,B.ag),p,B.a6,p,p,B.ao))],o),B.a1,B.ag),p,p),B.p,p,p,p,p,p,p,p,p,p,s))},
 VU(a){var s,r="https://drive.google.com/file/d/1ROM1rPbzhgu6Qej1FEIMKKnjuTK6xFKS/view",q=null,p=A.zb(r,0,q),o=a.a
-if(o==="R.GIZI")s=!1
+if(o==="R.GIZI")s=!0
 else if(o==="R.KIA KB"){A.zb(r,0,q)
-s=!0}else s=!1
+s=!1}else s=!0
 return new A.pv(1,B.mo,A.ia(A.b([s?new A.Ge(new A.SV(),p,B.fh,q):B.c4,B.NN],t.D),B.a1,B.bu,B.ag),q)}}
 A.SX.prototype={
 $1(a){var s=null,r=this.b,q=this.a,p=this.c,o=t.D
