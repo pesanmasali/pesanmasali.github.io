@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c4dec354bcd9e18bec3019c13339bbdd",
+  "assets/AssetManifest.json": "af7911299d50777aa5ff03636b066342",
 "assets/assets/location/APOTEK.jpg": "d9e51ae5d949d7f21a0d372b180b1d6c",
 "assets/assets/location/GD%2520BELAKANG%2520LT.1.jpg": "09b75b81c0ada7d4cb8b7bb6ceb68c77",
 "assets/assets/location/GD%2520BELAKANG%2520LT.2.jpg": "09b75b81c0ada7d4cb8b7bb6ceb68c77",
@@ -13,6 +13,7 @@ const RESOURCES = {
 "assets/assets/location/PENDAFTARAN.jpg": "878139b37eaa2c8330daef09564368bc",
 "assets/assets/location/PINTU%2520MASUK.jpg": "2f9229b44ae9f27c4a884cfae4fb1ffb",
 "assets/assets/location/POLI%2520GIGI.jpg": "c23ba3b641a73a761c1b5976dd366c69",
+"assets/assets/location/POLI%2520TB.jpg": "609adcbae17dd7e3e04d72d8298937aa",
 "assets/assets/location/POLI%2520UMUM.jpg": "b9487b563e036cec24bfaba8499e7875",
 "assets/assets/location/R.ADMIN.jpg": "12d18062af569327150d4a102c3640bd",
 "assets/assets/location/R.DOKTER.jpg": "3beafae4b11ee62163c1eafab191f0c3",
@@ -37,6 +38,7 @@ const RESOURCES = {
 "assets/assets/person/null.png": "4788048f319dc48101678d9e69f5077e",
 "assets/assets/person/PENDAFTARAN.jpg": "341af25dd641958d491f78001c77ec51",
 "assets/assets/person/POLI%2520GIGI.jpg": "8e4a4f76d5a230bdcb0be348452028f2",
+"assets/assets/person/POLI%2520TB.jpg": "0f2425d944e443524819f2cde883e61c",
 "assets/assets/person/POLI%2520UMUM.jpg": "c8a851b199d6c6fd78fa3c23af1b5069",
 "assets/assets/person/R.GIZI.jpg": "313bda7e21827ace63b6a551967cf3aa",
 "assets/assets/person/R.KA.PUSKESMAS.jpg": "4def4768d3fe674ec77e1e1ca310e232",
@@ -61,9 +63,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c42d2fd58808eaeb584f569cde927540",
-"/": "c42d2fd58808eaeb584f569cde927540",
-"main.dart.js": "a881d7784ce2c22618e40c330a6b08bb",
+"index.html": "34892b07f25206e8a4a00c6e72361f2a",
+"/": "34892b07f25206e8a4a00c6e72361f2a",
+"main.dart.js": "dbbc926a3265e5ff3b2a22ede2caaaad",
 "manifest.json": "e4a1cf04faa7587feac3d3fa09860ecb",
 "version.json": "25666f0c0ada1f311e30847819888663"
 };
