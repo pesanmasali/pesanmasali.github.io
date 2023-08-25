@@ -32,7 +32,6 @@ const RESOURCES = {
 "assets/assets/location/TPS%2520&%2520IPAL.jpg": "efc4a572568a81cd7338ffe7d2f16219",
 "assets/assets/location/TPS%2520&%2520IPAL_.jpg": "bc4e91106d2abac66f83369d3fdf0da7",
 "assets/assets/location/UGD.jpg": "eec163577ad5d376b2799bae6379f620",
-"assets/assets/MAP-PKM%20KLK.png": "8372cee309ca99921b9c422c6b54d61b",
 "assets/assets/map.png": "c1376f8e60498b467b2c59df5b88bc66",
 "assets/assets/person/BU%20ANA-RANAP.png": "d062d26ce747c994f4a044b3ecc2e972",
 "assets/assets/person/BU%20FIT-GIGI.png": "e61114d7711821a1ab557c58b7fd84d7",
@@ -78,8 +77,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b346afb0b3cd19e52f3edd0e3d5064d8",
-"/": "b346afb0b3cd19e52f3edd0e3d5064d8",
+"index.html": "0fe9e185ec423f5b680a0906708b5bce",
+"/": "0fe9e185ec423f5b680a0906708b5bce",
 "main.dart.js": "cabb9bdcc0b78d36a4e681edf2b1f453",
 "manifest.json": "e4a1cf04faa7587feac3d3fa09860ecb",
 "version.json": "25666f0c0ada1f311e30847819888663"
