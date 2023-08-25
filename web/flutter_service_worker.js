@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "aee208c19c261b2570113d146ac25aea",
+  "assets/AssetManifest.json": "3491963771756c3ba094dc72d0c717ae",
 "assets/assets/location/APOTEK.jpg": "d9e51ae5d949d7f21a0d372b180b1d6c",
 "assets/assets/location/GD%2520BELAKANG%2520LT.1.jpg": "09b75b81c0ada7d4cb8b7bb6ceb68c77",
 "assets/assets/location/GD%2520BELAKANG%2520LT.2.jpg": "09b75b81c0ada7d4cb8b7bb6ceb68c77",
@@ -32,7 +32,7 @@ const RESOURCES = {
 "assets/assets/location/TPS%2520&%2520IPAL.jpg": "efc4a572568a81cd7338ffe7d2f16219",
 "assets/assets/location/TPS%2520&%2520IPAL_.jpg": "bc4e91106d2abac66f83369d3fdf0da7",
 "assets/assets/location/UGD.jpg": "eec163577ad5d376b2799bae6379f620",
-"assets/assets/map.png": "8372cee309ca99921b9c422c6b54d61b",
+"assets/assets/map.jpg": "74dc04e7b3de9b6a81f7c0427c8dfd53",
 "assets/assets/person/APOTEK.png": "ddbe4ad625e41e22544872281a9e6b9a",
 "assets/assets/person/KA%2520TU.png": "562309c2638b58ffa9b86e88862d54e9",
 "assets/assets/person/KESLING.png": "e7311e97731f520a69563e1f0b2fe067",
@@ -65,8 +65,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "bb9565e1ab31b9e373f482fa43344e8c",
-"/": "bb9565e1ab31b9e373f482fa43344e8c",
+"index.html": "d5365e6f63e53fe0d12f56d729f0e270",
+"/": "d5365e6f63e53fe0d12f56d729f0e270",
 "main.dart.js": "cabb9bdcc0b78d36a4e681edf2b1f453",
 "manifest.json": "e4a1cf04faa7587feac3d3fa09860ecb",
 "version.json": "25666f0c0ada1f311e30847819888663"
