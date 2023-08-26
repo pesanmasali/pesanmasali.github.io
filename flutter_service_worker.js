@@ -35,6 +35,7 @@ const RESOURCES = {
 "assets/assets/map.png": "8372cee309ca99921b9c422c6b54d61b",
 "assets/assets/person/APOTEK.png": "ddbe4ad625e41e22544872281a9e6b9a",
 "assets/assets/person/KA%2520TU.png": "562309c2638b58ffa9b86e88862d54e9",
+"assets/assets/person/KAPUS.png": "82b65eb879acd48d7e575971d611ff46",
 "assets/assets/person/KESLING.png": "e7311e97731f520a69563e1f0b2fe067",
 "assets/assets/person/LABORATORIUM.png": "c5b120be209f37fc05d16054988164b4",
 "assets/assets/person/MTBS.jpg": "1fa6f77c152cbec0f3cb00050c9a1e86",
@@ -48,6 +49,7 @@ const RESOURCES = {
 "assets/assets/person/R.KIA%2520KB.png": "c8d1c0c383833962f5cb20f0c12193a3",
 "assets/assets/person/R.VAKSIN.jpg": "a0625a2eba6b10798fb39bf1078605ef",
 "assets/assets/person/RAWAT%2520INAP.png": "d062d26ce747c994f4a044b3ecc2e972",
+"assets/assets/person/TATA%20USAHA.png": "562309c2638b58ffa9b86e88862d54e9",
 "assets/assets/person/UGD.png": "f19a3bc1250a399667a3cda0c06c8893",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
@@ -65,9 +67,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3524765bf9cb669bf6e787bc1704eb2a",
-"/": "3524765bf9cb669bf6e787bc1704eb2a",
-"main.dart.js": "4a8d1a5de6cf68f0559c1e4ce7185d48",
+"index.html": "c5014182cfce0c2c90485013b4d0b5b8",
+"/": "c5014182cfce0c2c90485013b4d0b5b8",
+"main.dart.js": "f33364d2d58f85886c3a9105fe2e6a9b",
 "manifest.json": "e4a1cf04faa7587feac3d3fa09860ecb",
 "version.json": "25666f0c0ada1f311e30847819888663"
 };
