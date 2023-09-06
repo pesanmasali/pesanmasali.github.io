@@ -66958,7 +66958,7 @@ B.b.N(q,n)
 return A.vu(A.dB(p,A.j8(A.nw(A.b([r,A.vu(A.alE(A.ia(q,B.fo,B.bu,B.ag),p,B.a6,p,p,B.ao))],o),B.a1,B.ag),p,p),B.p,p,p,p,p,p,p,p,p,p,s))},
 VU(a){var s,r=null,q={},p=q.a=A.zb("https://drive.google.com/file/d/1tEck4eRWPjh8NTAZVq12ysYnhPV9iYQu/view?usp=sharing",0,r),o=a.a
 if(o==="R.GIZI"){o=p
-s=!0}else if(o==="PENDAFTARAN"){p=A.zb("https://drive.google.com/file/d/1eqiCkwekK6gyyW4aGCmOh3jhmlzYBTmQ/view?usp=sharing",0,r)
+s=!0}else if(o==="PENDAFTARAN"){p=A.zb("https://drive.google.com/file/d/1OnzU2FYeCqqDMaeFMM5Tk5RzEshNParK/view?usp=sharing",0,r)
 q.a=p
 o=p
 s=!0}else{o=p
